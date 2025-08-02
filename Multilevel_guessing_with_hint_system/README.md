@@ -24,6 +24,10 @@ Test your brain and vocabulary skills by guessing words based on clever hints ac
 - 🎯 Tracks number of attempts
 
 ---
+<h3>Play it online(No login)</h3>
+<a href="https://replit.com/@mdnabid786/Multilevelguessingwithhintsystem">Play</a>
+<h1>Example:</h1>
+<img src="example.png">
 
 ## 💻 Run It Locally
 
@@ -38,7 +42,4 @@ cd guessing-game
 
 # Run the script
 python guessing_game.py
-<h3>Play it online(No login)</h3>
-<a href="https://replit.com/@mdnabid786/Multilevelguessingwithhintsystem">Play</a>
-<h1>Example:</h1>
-<img src="example.png">
+
